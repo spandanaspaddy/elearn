@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:lightskyblue;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  li a:hover {
+    background-color:lightgreen;
+  }
+  .a1
+    {        float: left;
+        width: 30%;
+        height: 300px; 
+        background: lightgray;
+        padding: 20px;
+        }
+        .a2
+    {        float: left;
+        width: 30%;
+        height: 300px; 
+        background: lightcyan;
+        padding: 20px;
+        }
+        .clearfix {
+            overflow: auto;
+          }
+          
